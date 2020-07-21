@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ankurk91&show_icons=true)](https://github.com/ankurk91)
+[![github stats](https://github-readme-stats.vercel.app/api?username=ankurk91&show_icons=true&hide=["commits"]&cache_seconds=3600)](https://github.com/ankurk91)
 
 
 <!--
